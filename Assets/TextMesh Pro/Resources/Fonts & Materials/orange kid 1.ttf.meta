@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4b89be73566e3a84cbefa5eaa94e1b02
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Orange Kid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6ee455897a1df114db6047a1bd5f6c10, type: 3}
+  - {fileID: 12800000, guid: f0c4afdbdfd90f6428b0fadd68b92711, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a5526aabe69667a4d8c9266e23f97056
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla/Batalla.unity
+    guid: 57d1ed09fd1278e4cb739f0593a8ccdc
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 1/Batalla.unity
+    guid: 24fb13be351173843bbf14e76b57df2b
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 2/Batalla.unity
+    guid: 06f003230e178e24898c55521af6dab9
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 3/Batalla.unity
+    guid: 3b0ae6f7b0cc16444a985ee651779d58
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 4/Batalla.unity
+    guid: 4f27f8477c0cf714997d3a3ca758e27f
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 5/Batalla.unity
+    guid: ac9a835ca0d11df409cf749aa5baac90
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 6/Batalla.unity
+    guid: b07fd6ae3a3a6b646811123cc121f74a
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 7/Batalla.unity
+    guid: e2a3056f26087834383764db2a57ed25
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 8/Batalla.unity
+    guid: c338463c08113ad499d5abe1e0ee3451
+  - enabled: 1
+    path: Assets/Scenes/BatallaS/Batalla 9/Batalla.unity
+    guid: 7f4316ba3296d6d43a015b631a205d4e
+  - enabled: 1
+    path: Assets/Scenes/FInal.unity
+    guid: 32259ae182d987b42afd628dbaef0456
+  m_configObjects: {}
